@@ -14,10 +14,10 @@ Second line contains N space separated intergers.
 Next q lines contain q queries of single integer
 
 Example:
-3 2
-1 2 3
-4
-5
-A = {1, 2, 3}
-Case 1: x = 4 Maximum xor of x is with 3, therefore answer is 4 xor 3 = 7
+3 2  
+1 2 3  
+4  
+5  
+A = {1, 2, 3}  
+Case 1: x = 4 Maximum xor of x is with 3, therefore answer is 4 xor 3 = 7  
 Case 2: x = 5 Maximum xor of x is with 2, therefore answer is 5 xor 2 = 7 
